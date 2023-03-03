@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\ioINIScanner\bin\Release\ioINIScanner.exe.config
+C:\Users\Admin\Desktop\ioINIScanner\bin\Release\ioINIScanner.exe
+C:\Users\Admin\Desktop\ioINIScanner\bin\Release\ioINIScanner.pdb
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.Form1.resources
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.Properties.Resources.resources
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.exe
+C:\Users\Admin\Desktop\ioINIScanner\obj\Release\ioINIScanner.pdb
